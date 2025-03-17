@@ -23,6 +23,9 @@ The app consists of:
 ## App Icon
 - Using **flutter_launch_icon** package
 ```
+flutter_launcher_icons: "^0.14.3" #in dev dependencies section
+```
+```
 flutter_launcher_icons:
     android: "launcher_icon"
     image_path: "assets/icons/icon.png"
